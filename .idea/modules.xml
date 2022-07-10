@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/secao8-exemplo1-OO/-.iml" filepath="$PROJECT_DIR$/secao8-exemplo1-OO/-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_programacao.iml" filepath="$PROJECT_DIR$/curso_programacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" filepath="$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao5-estruturaCondicional/secao5-estruturaCondicional.iml" filepath="$PROJECT_DIR$/secao5-estruturaCondicional/secao5-estruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao6-estruturaRepetitiva/secao6-estruturaRepetitiva.iml" filepath="$PROJECT_DIR$/secao6-estruturaRepetitiva/secao6-estruturaRepetitiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao7-outrosTopicosBasicos/secao7-outrosTopicosBasicos.iml" filepath="$PROJECT_DIR$/secao7-outrosTopicosBasicos/secao7-outrosTopicosBasicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao8-exemplo2-OO/secao8-exemplo2-OO.iml" filepath="$PROJECT_DIR$/secao8-exemplo2-OO/secao8-exemplo2-OO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao8-exemploMembrosEstaticos/secao8-exemploMembrosEstaticos.iml" filepath="$PROJECT_DIR$/secao8-exemploMembrosEstaticos/secao8-exemploMembrosEstaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao8-exercicio1OO/secao8-exercicio1OO.iml" filepath="$PROJECT_DIR$/secao8-exercicio1OO/secao8-exercicio1OO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao8-exercicio2OO/secao8-exercicio2OO.iml" filepath="$PROJECT_DIR$/secao8-exercicio2OO/secao8-exercicio2OO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao8-exercicio3OO/secao8-exercicio3OO.iml" filepath="$PROJECT_DIR$/secao8-exercicio3OO/secao8-exercicio3OO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao8-exercicioMembrosEstaticos/secao8-exercicioMembrosEstaticos.iml" filepath="$PROJECT_DIR$/secao8-exercicioMembrosEstaticos/secao8-exercicioMembrosEstaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao9-exemploConstrutores/secao9-exemploConstrutores.iml" filepath="$PROJECT_DIR$/secao9-exemploConstrutores/secao9-exemploConstrutores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao9-exercicio/secao9-exercicio.iml" filepath="$PROJECT_DIR$/secao9-exercicio/secao9-exercicio.iml" />
+    </modules>
+  </component>
+</project>
