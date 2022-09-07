@@ -4,6 +4,36 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/secao8-exemplo1-OO/-.iml" filepath="$PROJECT_DIR$/secao8-exemplo1-OO/-.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso_programacao.iml" filepath="$PROJECT_DIR$/curso_programacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-exemploMatrizes/secao10-exemploMatrizes.iml" filepath="$PROJECT_DIR$/secao10-exemploMatrizes/secao10-exemploMatrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-exemploVetoresTipoPrimitivo/secao10-exemploVetoresTipoPrimitivo.iml" filepath="$PROJECT_DIR$/secao10-exemploVetoresTipoPrimitivo/secao10-exemploVetoresTipoPrimitivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-exemploVetoresTipoReferencia/secao10-exemploVetoresTipoReferencia.iml" filepath="$PROJECT_DIR$/secao10-exemploVetoresTipoReferencia/secao10-exemploVetoresTipoReferencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-exercicioForEach/secao10-exercicioForEach.iml" filepath="$PROJECT_DIR$/secao10-exercicioForEach/secao10-exercicioForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-exercicioLista-minhaSolucao/secao10-exercicioLista-minhaSolucao.iml" filepath="$PROJECT_DIR$/secao10-exercicioLista-minhaSolucao/secao10-exercicioLista-minhaSolucao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-exercicioLista-solucaoProfessor/secao10-exercicioLista-solucaoProfessor.iml" filepath="$PROJECT_DIR$/secao10-exercicioLista-solucaoProfessor/secao10-exercicioLista-solucaoProfessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-exercicioMatrizes/secao10-exercicioMatrizes.iml" filepath="$PROJECT_DIR$/secao10-exercicioMatrizes/secao10-exercicioMatrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-exercicioPensionatoComOO/secao10-exercicioPensionatoComOO.iml" filepath="$PROJECT_DIR$/secao10-exercicioPensionatoComOO/secao10-exercicioPensionatoComOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-exerciciosVetores/secao10-exerciciosVetores.iml" filepath="$PROJECT_DIR$/secao10-exerciciosVetores/secao10-exerciciosVetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10-lista/secao10-lista.iml" filepath="$PROJECT_DIR$/secao10-lista/secao10-lista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao11-calculosComDatas/secao11-calculosComDatas.iml" filepath="$PROJECT_DIR$/secao11-calculosComDatas/secao11-calculosComDatas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao11-classeCalendar/secao11-classeCalendar.iml" filepath="$PROJECT_DIR$/secao11-classeCalendar/secao11-classeCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao11-exemploDate/secao11-exemploDate.iml" filepath="$PROJECT_DIR$/secao11-exemploDate/secao11-exemploDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao11-formatandoDatas/secao11-formatandoDatas.iml" filepath="$PROJECT_DIR$/secao11-formatandoDatas/secao11-formatandoDatas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao11-operacoesComDatas/secao11-operacoesComDatas.iml" filepath="$PROJECT_DIR$/secao11-operacoesComDatas/secao11-operacoesComDatas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao11-revisaoDatas/secao11-revisaoDatas.iml" filepath="$PROJECT_DIR$/secao11-revisaoDatas/secao11-revisaoDatas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao13-composicao/secao13-composicao.iml" filepath="$PROJECT_DIR$/secao13-composicao/secao13-composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao13-enum/secao13-enum.iml" filepath="$PROJECT_DIR$/secao13-enum/secao13-enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao13-exercicioDeFixacao/secao13-exercicioDeFixacao.iml" filepath="$PROJECT_DIR$/secao13-exercicioDeFixacao/secao13-exercicioDeFixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao13-exercicioStringBuilder/secao13-exercicioStringBuilder.iml" filepath="$PROJECT_DIR$/secao13-exercicioStringBuilder/secao13-exercicioStringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao13-refazendoOExercicioComp/secao13-refazendoOExercicioComp.iml" filepath="$PROJECT_DIR$/secao13-refazendoOExercicioComp/secao13-refazendoOExercicioComp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao14-exercicio2polimorfismo/secao14-exercicio2polimorfismo.iml" filepath="$PROJECT_DIR$/secao14-exercicio2polimorfismo/secao14-exercicio2polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao14-exercicioMetodosAbstratos/secao14-exercicioMetodosAbstratos.iml" filepath="$PROJECT_DIR$/secao14-exercicioMetodosAbstratos/secao14-exercicioMetodosAbstratos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao14-exercicioPolimorfismo/secao14-exercicioPolimorfismo.iml" filepath="$PROJECT_DIR$/secao14-exercicioPolimorfismo/secao14-exercicioPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao14-heranca/secao14-heranca.iml" filepath="$PROJECT_DIR$/secao14-heranca/secao14-heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao14-metodosAbstratos/secao14-metodosAbstratos.iml" filepath="$PROJECT_DIR$/secao14-metodosAbstratos/secao14-metodosAbstratos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao15-blocoFinally/secao15-blocoFinally.iml" filepath="$PROJECT_DIR$/secao15-blocoFinally/secao15-blocoFinally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao15-exemploExcecao/secao15-exemploExcecao.iml" filepath="$PROJECT_DIR$/secao15-exemploExcecao/secao15-exemploExcecao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao15-exercicioExcecao/secao15-exercicioExcecao.iml" filepath="$PROJECT_DIR$/secao15-exercicioExcecao/secao15-exercicioExcecao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao15-tryCatch/secao15-tryCatch.iml" filepath="$PROJECT_DIR$/secao15-tryCatch/secao15-tryCatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" filepath="$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao5-estruturaCondicional/secao5-estruturaCondicional.iml" filepath="$PROJECT_DIR$/secao5-estruturaCondicional/secao5-estruturaCondicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao6-estruturaRepetitiva/secao6-estruturaRepetitiva.iml" filepath="$PROJECT_DIR$/secao6-estruturaRepetitiva/secao6-estruturaRepetitiva.iml" />
