@@ -34,6 +34,10 @@
       <module fileurl="file://$PROJECT_DIR$/secao15-exemploExcecao/secao15-exemploExcecao.iml" filepath="$PROJECT_DIR$/secao15-exemploExcecao/secao15-exemploExcecao.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao15-exercicioExcecao/secao15-exercicioExcecao.iml" filepath="$PROJECT_DIR$/secao15-exercicioExcecao/secao15-exercicioExcecao.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao15-tryCatch/secao15-tryCatch.iml" filepath="$PROJECT_DIR$/secao15-tryCatch/secao15-tryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao17-FileReaderBufferedReader/secao17-FileReaderBufferedReader.iml" filepath="$PROJECT_DIR$/secao17-FileReaderBufferedReader/secao17-FileReaderBufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao17-FileWriterBufferedWriter/secao17-FileWriterBufferedWriter.iml" filepath="$PROJECT_DIR$/secao17-FileWriterBufferedWriter/secao17-FileWriterBufferedWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao17-lendoArquivos/secao17-lendoArquivos.iml" filepath="$PROJECT_DIR$/secao17-lendoArquivos/secao17-lendoArquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao17-try-with-resources/secao17-try-with-resources.iml" filepath="$PROJECT_DIR$/secao17-try-with-resources/secao17-try-with-resources.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" filepath="$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao5-estruturaCondicional/secao5-estruturaCondicional.iml" filepath="$PROJECT_DIR$/secao5-estruturaCondicional/secao5-estruturaCondicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao6-estruturaRepetitiva/secao6-estruturaRepetitiva.iml" filepath="$PROJECT_DIR$/secao6-estruturaRepetitiva/secao6-estruturaRepetitiva.iml" />
