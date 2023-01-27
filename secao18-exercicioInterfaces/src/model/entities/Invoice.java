@@ -15,6 +15,6 @@ public class Invoice {
     private Double tax;
 
     public Double getTotalPayment() {
-        return getBasicPayment() - getTax();
+        return getBasicPayment() + getTax();
     }
 }

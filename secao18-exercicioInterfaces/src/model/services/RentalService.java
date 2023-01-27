@@ -11,23 +11,27 @@ import java.time.temporal.ChronoUnit;
 @AllArgsConstructor
 public class RentalService {
 
-    private Double pricePerDay;
     private Double pricePerHour;
+    private Double pricePerDay;
     private BrazilTaxService brazilTaxService;
 
     public void processInvoice (CarRental carRental) {
-        long durationHours = ChronoUnit.HOURS.between(carRental.getFinish(), carRental.getStart());
-        long durationDays = ChronoUnit.DAYS.between(carRental.getFinish(), carRental.getStart());
+//        long durationHours = ChronoUnit.HOURS.between(carRental.getFinish(), carRental.getStart());
+//        long durationDays = ChronoUnit.DAYS.between(carRental.getFinish(), carRental.getStart());
 
         double minutes = Duration.between(carRental.getStart(), carRental.getFinish()).toMinutes();
-        double hours = minutes / 60;
+        double hours = minutes / 60.0;
 
-        if (durationHours <= 12) {
+        double basicPayment;
 
+        if (hours <= 12) {
+            basicPayment = pricePerHour * Math.ceil(hours);
         } else {
-
+            basicPayment = pricePerDay * Math.ceil(hours/24.0);
         }
 
-        carRental.setInvoice(new Invoice(50.0, 10.0));
+        double tax = brazilTaxService.tax(basicPayment);
+
+        carRental.setInvoice(new Invoice(basicPayment, tax));
     }
 }
