@@ -5,19 +5,15 @@ import model.entities.CarRental;
 import model.entities.Invoice;
 
 import java.time.Duration;
-import java.time.LocalDateTime;
-import java.time.temporal.ChronoUnit;
 
 @AllArgsConstructor
 public class RentalService {
 
     private Double pricePerHour;
     private Double pricePerDay;
-    private BrazilTaxService brazilTaxService;
+    private TaxService taxService;
 
     public void processInvoice (CarRental carRental) {
-//        long durationHours = ChronoUnit.HOURS.between(carRental.getFinish(), carRental.getStart());
-//        long durationDays = ChronoUnit.DAYS.between(carRental.getFinish(), carRental.getStart());
 
         double minutes = Duration.between(carRental.getStart(), carRental.getFinish()).toMinutes();
         double hours = minutes / 60.0;
@@ -30,7 +26,7 @@ public class RentalService {
             basicPayment = pricePerDay * Math.ceil(hours/24.0);
         }
 
-        double tax = brazilTaxService.tax(basicPayment);
+        double tax = taxService.tax(basicPayment);
 
         carRental.setInvoice(new Invoice(basicPayment, tax));
     }
