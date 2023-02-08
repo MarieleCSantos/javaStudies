@@ -3,6 +3,7 @@ package application;
 import model.entities.Contract;
 import model.entities.Installment;
 import model.services.ContractService;
+import model.services.PaypalService;
 
 import java.time.format.DateTimeFormatter;
 import java.util.List;
@@ -22,7 +23,7 @@ public class Program {
         int number = sc.nextInt();
 
         System.out.print("Data (dd/MM/yyyy): ");
-        LocalDate date = LocalDate.parse(sc.nextLine(), dtf);
+        LocalDate date = LocalDate.parse(sc.next(), dtf);
 
         System.out.print("Valor do contrato: ");
         double value = sc.nextDouble();
@@ -32,18 +33,15 @@ public class Program {
 
         Contract contract = new Contract(number, date, value);
 
-        ContractService contractService = new ContractService();
+        ContractService contractService = new ContractService(new PaypalService());
         contractService.processContract(contract, numberOfInstallments);
 
         System.out.println("Parcelas:");
 
-        int i = 0;
-        while (i < numberOfInstallments) {
-            List<Installment> list = contract.getInstallments();
-
-            System.out.println(list.get(i).toString());
-
-            i++;
+        for (Installment installment : contract.getInstallments()) {
+            System.out.println(installment);
         }
+
+        sc.close();
     }
 }

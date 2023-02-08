@@ -1,20 +1,27 @@
 package model.services;
 
+import lombok.AllArgsConstructor;
 import model.entities.Contract;
 import model.entities.Installment;
 
+import java.time.LocalDate;
+
+@AllArgsConstructor
 public class ContractService {
 
+    private OnlinePaymentService onlinePaymentService;
+
     public void processContract(Contract contract, Integer months) {
-        for (int i = 0; i <= months; i++) {
+        Double basicInstallment = contract.getTotalValue() / months;
 
-            OnlinePaymentService service = new PaypalService();
-            Double interest = service.interest(contract.getTotalValue(), i);
-            Double paymentFee = service.paymentFee(interest);
+        for (int i = 1; i <= months; i++) {
+            LocalDate dueDate = contract.getDate().plusMonths(i);
 
-            Installment installment = new Installment(contract.getDate().plusMonths(1), (contract.getTotalValue() + interest + paymentFee));
+            Double interest = onlinePaymentService.interest(basicInstallment, i);
+            Double paymentFee = onlinePaymentService.paymentFee(interest + basicInstallment);
+            Double finalInstallmentValue = basicInstallment + interest + paymentFee;
 
-            contract.getInstallments().add(installment);
+            contract.getInstallments().add(new Installment(dueDate, finalInstallmentValue));
         }
 
     }
