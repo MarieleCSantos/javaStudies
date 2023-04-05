@@ -46,8 +46,14 @@
       <module fileurl="file://$PROJECT_DIR$/secao18-exercicioInterfaces/secao18-exercicioInterfaces.iml" filepath="$PROJECT_DIR$/secao18-exercicioInterfaces/secao18-exercicioInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao18-interfaceComparable/secao18-interfaceComparable.iml" filepath="$PROJECT_DIR$/secao18-interfaceComparable/secao18-interfaceComparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-curingasDelimitados/secao19-curingasDelimitados.iml" filepath="$PROJECT_DIR$/secao19-curingasDelimitados/secao19-curingasDelimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-exercicio2Set/secao19-exercicio2Set.iml" filepath="$PROJECT_DIR$/secao19-exercicio2Set/secao19-exercicio2Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-exercicioSet/secao19-exercicioSet.iml" filepath="$PROJECT_DIR$/secao19-exercicioSet/secao19-exercicioSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-genericosDelimitados/secao19-genericosDelimitados.iml" filepath="$PROJECT_DIR$/secao19-genericosDelimitados/secao19-genericosDelimitados.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-generics/secao19-generics.iml" filepath="$PROJECT_DIR$/secao19-generics/secao19-generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-hashCodeEquals/secao19-hashCodeEquals.iml" filepath="$PROJECT_DIR$/secao19-hashCodeEquals/secao19-hashCodeEquals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-set/secao19-set.iml" filepath="$PROJECT_DIR$/secao19-set/secao19-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-setHashSet/secao19-setHashSet.iml" filepath="$PROJECT_DIR$/secao19-setHashSet/secao19-setHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-setTreeSet/secao19-setTreeSet.iml" filepath="$PROJECT_DIR$/secao19-setTreeSet/secao19-setTreeSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-tiposCuringa/secao19-tiposCuringa.iml" filepath="$PROJECT_DIR$/secao19-tiposCuringa/secao19-tiposCuringa.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-tiposCuringaDelimitados/secao19-tiposCuringaDelimitados.iml" filepath="$PROJECT_DIR$/secao19-tiposCuringaDelimitados/secao19-tiposCuringaDelimitados.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" filepath="$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" />

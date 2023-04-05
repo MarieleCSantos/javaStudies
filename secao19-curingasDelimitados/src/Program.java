@@ -9,9 +9,9 @@ public class Program {
         List<Object> myObjs = new ArrayList<>();
 
         copy(myInts, myObjs);
-
+        printList(myObjs);
         copy(myDoubles, myObjs);
-
+        printList(myObjs);
     }
 
     public static void copy(List<? extends Number> source, List<? super Number> destiny) {
@@ -20,5 +20,11 @@ public class Program {
         }
     }
 
-//    public s
+    public static void printList(List<?> list) {
+        for (Object obj : list) {
+            System.out.print(obj + " ");
+        }
+        System.out.println();
+    }
+
 }
