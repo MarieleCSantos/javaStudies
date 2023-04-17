@@ -44,18 +44,30 @@
       <module fileurl="file://$PROJECT_DIR$/secao18-defaultMethods/secao18-defaultMethods.iml" filepath="$PROJECT_DIR$/secao18-defaultMethods/secao18-defaultMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao18-exercicio2Interfaces/secao18-exercicio2Interfaces.iml" filepath="$PROJECT_DIR$/secao18-exercicio2Interfaces/secao18-exercicio2Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao18-exercicioInterfaces/secao18-exercicioInterfaces.iml" filepath="$PROJECT_DIR$/secao18-exercicioInterfaces/secao18-exercicioInterfaces.iml" />
-      <module fileurl="file://$PROJECT_DIR$/secao18-interfaceComparable/secao18-interfaceComparable.iml" filepath="$PROJECT_DIR$/secao18-interfaceComparable/secao18-interfaceComparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-curingasDelimitados/secao19-curingasDelimitados.iml" filepath="$PROJECT_DIR$/secao19-curingasDelimitados/secao19-curingasDelimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-exercicio1Set/secao19-exercicio1Set.iml" filepath="$PROJECT_DIR$/secao19-exercicio1Set/secao19-exercicio1Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-exercicio2Set/secao19-exercicio2Set.iml" filepath="$PROJECT_DIR$/secao19-exercicio2Set/secao19-exercicio2Set.iml" />
-      <module fileurl="file://$PROJECT_DIR$/secao19-exercicioSet/secao19-exercicioSet.iml" filepath="$PROJECT_DIR$/secao19-exercicioSet/secao19-exercicioSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-exercicioMap/secao19-exercicioMap.iml" filepath="$PROJECT_DIR$/secao19-exercicioMap/secao19-exercicioMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-genericosDelimitados/secao19-genericosDelimitados.iml" filepath="$PROJECT_DIR$/secao19-genericosDelimitados/secao19-genericosDelimitados.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-generics/secao19-generics.iml" filepath="$PROJECT_DIR$/secao19-generics/secao19-generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-hashCodeEquals/secao19-hashCodeEquals.iml" filepath="$PROJECT_DIR$/secao19-hashCodeEquals/secao19-hashCodeEquals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-map/secao19-map.iml" filepath="$PROJECT_DIR$/secao19-map/secao19-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao19-mapExemplo2/secao19-mapExemplo2.iml" filepath="$PROJECT_DIR$/secao19-mapExemplo2/secao19-mapExemplo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-set/secao19-set.iml" filepath="$PROJECT_DIR$/secao19-set/secao19-set.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-setHashSet/secao19-setHashSet.iml" filepath="$PROJECT_DIR$/secao19-setHashSet/secao19-setHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-setTreeSet/secao19-setTreeSet.iml" filepath="$PROJECT_DIR$/secao19-setTreeSet/secao19-setTreeSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-tiposCuringa/secao19-tiposCuringa.iml" filepath="$PROJECT_DIR$/secao19-tiposCuringa/secao19-tiposCuringa.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao19-tiposCuringaDelimitados/secao19-tiposCuringaDelimitados.iml" filepath="$PROJECT_DIR$/secao19-tiposCuringaDelimitados/secao19-tiposCuringaDelimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao18-interfaceComparable/secao20-Comparator.iml" filepath="$PROJECT_DIR$/secao18-interfaceComparable/secao20-Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao20-Comparator1/secao20-Comparator1.iml" filepath="$PROJECT_DIR$/secao20-Comparator1/secao20-Comparator1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao20-Consumer/secao20-Consumer.iml" filepath="$PROJECT_DIR$/secao20-Consumer/secao20-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao20-Function/secao20-Function.iml" filepath="$PROJECT_DIR$/secao20-Function/secao20-Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao20-Predicate/secao20-Predicate.iml" filepath="$PROJECT_DIR$/secao20-Predicate/secao20-Predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao20-exercicio/secao20-exercicio.iml" filepath="$PROJECT_DIR$/secao20-exercicio/secao20-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao20-exercicio1stream/secao20-exercicio1stream.iml" filepath="$PROJECT_DIR$/secao20-exercicio1stream/secao20-exercicio1stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao20-objetosPrimeiraOrdem/secao20-objetosPrimeiraOrdem.iml" filepath="$PROJECT_DIR$/secao20-objetosPrimeiraOrdem/secao20-objetosPrimeiraOrdem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao20-pipeline/secao20-pipeline.iml" filepath="$PROJECT_DIR$/secao20-pipeline/secao20-pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao20-stream/secao20-stream.iml" filepath="$PROJECT_DIR$/secao20-stream/secao20-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" filepath="$PROJECT_DIR$/secao4-estruturaSequencial/secao4-estruturaSequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao5-estruturaCondicional/secao5-estruturaCondicional.iml" filepath="$PROJECT_DIR$/secao5-estruturaCondicional/secao5-estruturaCondicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/secao6-estruturaRepetitiva/secao6-estruturaRepetitiva.iml" filepath="$PROJECT_DIR$/secao6-estruturaRepetitiva/secao6-estruturaRepetitiva.iml" />
